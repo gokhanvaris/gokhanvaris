@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">IOS & Flutter Developer</h3>
+<h3 align="center">Flutter & Swift & Go Developer</h3>
 
 
 Hello! I'm Gökhan, a  software developer specializing in mobile app development. I craft creative and user-friendly mobile applications using both Flutter and Swift.
